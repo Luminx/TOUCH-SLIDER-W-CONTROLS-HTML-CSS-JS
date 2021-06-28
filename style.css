@@ -68,7 +68,7 @@ html, body {
   top: 50%;
   height: 50px;
   width: 100%;
-  z-index: 99999;
+  
   
 }
 
@@ -98,6 +98,7 @@ i:hover {
   cursor: pointer;
   padding: .5rem;
   transform: rotateY(180deg);
+  z-index: 99999;
 
 
 }
@@ -110,6 +111,7 @@ i:hover {
   background: transparent;
   cursor: pointer;
   padding: .5rem;
+  z-index: 99999;
 
 
 }
