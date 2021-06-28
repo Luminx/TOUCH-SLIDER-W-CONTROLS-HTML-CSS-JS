@@ -4,4 +4,4 @@ https://codepen.io/Luminx/pen/ZEKEBLR
 
 https://github.com/Luminx/TOUCH-SLIDER-W-CONTROLS
 
-May need to be optimized. Let me know where it can be improved.
+May need to be optimized for responsiveness and functionality. Let me know where it can be improved or fixed.
